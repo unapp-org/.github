@@ -1,5 +1,5 @@
 # unapp org
 
-- **lightweigt**, realize features by less dependencies.
-- **powerful**, speedy up features.
-- **elegant**, make trade-off to make better decisions.
+- **more lightweigt**, realize features by less dependencies.
+- **more powerful**, speedy up features.
+- **more elegant**, make trade-off to make better decisions.
